@@ -14,7 +14,7 @@
     const API_KEY = 'YOUR_API_KEY_HERE'; // you technically don't need to change this
     const USER_ID = 'YOUR_USER_ID_HERE'; // you technically don't need to change this
     const API_BASE = 'https://gelbooru.com/index.php?page=dapi&s=post&q=index';
-    const NODE_SERVER = 'http://localhost:3000';
+    const NODE_SERVER = 'http://localhost:3014';
 
     let hoveredImageId = null;
 
