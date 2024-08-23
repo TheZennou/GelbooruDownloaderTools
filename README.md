@@ -1,4 +1,4 @@
-# gelboorudownloadertools
+# Gelbooru Downloader Tools
 Some tools for easier tag/image downloading on gelbooru
 
 ## Gelbooru Improved Image Downloader Using Node.JS
