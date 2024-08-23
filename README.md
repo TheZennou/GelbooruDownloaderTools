@@ -11,6 +11,6 @@ Adds a few extra buttons and features to Gelbooru. (GelbooruDownloader)
 This version does not require node, but the input field only adds a prefix, it does not sort it into a new folder.
 Set a prefix(optional), and press "b" to download an image.
 
-##Gelbooru Improved Thumbnails
+## Gelbooru Improved Thumbnails
 Makes all Thumbnails full resolution. (GelbooruThumbnailImprover)
 
